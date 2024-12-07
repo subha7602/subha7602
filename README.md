@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subha7602&label=Profile%20views&color=0e75b6&style=flat" alt="subha7602" /> </p>
 
-- 🔭 I’m currently working on **Presidio💙**
+- 🔭 I’m currently working in **Presidio💙**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MLOPS**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
 - 📝 I regularly write articles on [https://medium.com/@subhashinimridu](https://medium.com/@subhashinimridu)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter,AWS, Terraform,Firebase,Machine Learning,K8S**
 
 - 📫 How to reach me **subhashinimridu@gmail.com**
 
